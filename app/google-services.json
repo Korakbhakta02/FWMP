@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416709495871",
+    "firebase_url": "https://fwmp-1813e-default-rtdb.firebaseio.com",
+    "project_id": "fwmp-1813e",
+    "storage_bucket": "fwmp-1813e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416709495871:android:705835f5d7cdfd13b27c8a",
+        "android_client_info": {
+          "package_name": "com.example.fwmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416709495871-4oa80kv7ejgndemfkud17vmhg35mgios.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2iFV7ZwmBlu8bn6Bn9Ot4_V4tWFIV_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416709495871-4oa80kv7ejgndemfkud17vmhg35mgios.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
